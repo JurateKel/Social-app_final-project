@@ -1,0 +1,53 @@
+@import "~react-image-gallery/styles/css/image-gallery.css";
+body {
+    background-color: rgb(246 248 250 / 34%);
+}
+.d-flex {
+    display: flex;
+}
+.j-center {
+    justify-content: center;
+}
+.j-sp-btw {
+    justify-content: space-between;
+}
+.m-auto {
+    margin: auto;
+}
+.align-center {
+    align-items: center;
+}
+.f-wrap {
+    flex-wrap: wrap;
+}
+.f-column {
+    flex-direction: column;
+}
+.p-20 {
+    padding: 20px;
+}
+.p-50 {
+    padding: 50px;
+}
+.m-20 {
+    margin: 20px;
+}
+.mb-20 {
+    margin-bottom: 20px;
+}
+.slider {
+    padding-top: 50px;
+}
+.App {
+    margin-top: 100px;
+}
+.love-button {
+    background-image: url(https://cdn3d.iconscout.com/3d/premium/thumb/heart-4033153-3345796@0.png);
+    background-size: 100%;
+}
+.skip-button {
+    background-image: url(https://uxwing.com/wp-content/themes/uxwing/download/controller-and-music/skip-icon.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
